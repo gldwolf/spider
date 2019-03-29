@@ -5,4 +5,5 @@ html_content = response.read()
 
 print(html_content)
 print("Good boy")
-input("")
+line = input("")
+print(line)
